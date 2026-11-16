@@ -1,0 +1,17 @@
+# Private participant-level data
+*.sav
+*.csv
+!PTQ_Gender_Configural_Model_Comparison.csv
+*.xlsx
+
+# R analysis objects
+*.rds
+
+# RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
