@@ -40,3 +40,12 @@ repetitive negative thinking.
 Journal of Behavior Therapy and Experimental Psychiatry,
 42(2), 225–232.
 https://doi.org/10.1016/j.jbtep.2010.12.003
+## Data availability and reproducibility
+
+The R analysis script and aggregated model-comparison results are publicly available in this repository. Participant-level data are not included to protect confidentiality and because permission for public data sharing has not been established.
+
+To reproduce the analysis, users must have an authorized copy of the dataset named `PTQ CFA.sav` and the required R packages (`haven` and `lavaan`) installed.
+
+## Limitations
+
+This analysis evaluates configural model structure only. Since none of the tested models demonstrated adequate robust fit, measurement invariance across gender was not examined. The exploratory two-factor model should not be interpreted as a validated alternative PTQ structure. Further independent investigation is needed.
