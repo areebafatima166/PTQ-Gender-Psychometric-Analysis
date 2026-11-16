@@ -15,11 +15,6 @@ Evaluation of the psychometric structure of the 15-item Perseverative Thinking Q
 - Analysis: Multi-group confirmatory factor analysis
 - Models examined: One-factor, original three-factor, and exploratory two-factor
 
-## Main finding
-None of the tested configural models demonstrated adequate robust fit.
-The three-factor model was inadmissible in the male group.
-Measurement invariance was therefore not tested further.
-
 ### Main finding
 
 None of the three tested configural models demonstrated adequate robust fit.
