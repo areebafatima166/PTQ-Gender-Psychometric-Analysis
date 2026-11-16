@@ -1,0 +1,4 @@
+"Model","Robust_CFI","Robust_TLI","Robust_RMSEA","SRMR","Admissible","Post_Check"
+"One-factor",0.878,0.858,0.116,0.06,"Yes",TRUE
+"Three-factor",0.894,0.873,0.11,0.055,"No",FALSE
+"Two-factor",0.895,0.876,0.109,0.055,"Yes",TRUE
