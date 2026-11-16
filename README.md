@@ -28,3 +28,15 @@ None of the three tested configural models demonstrated adequate robust fit.
 The original three-factor model was inadmissible in the male group because its latent factor covariance matrix was not positive definite.
 
 Measurement invariance testing was not continued because an adequate configural baseline could not be established.
+## Instrument reference
+
+The PTQ was developed and validated by Ehring et al. (2011).
+
+Ehring, T., Zetsche, U., Weidacker, K., Wahl, K.,
+Schönfeld, S., & Ehlers, A. (2011).
+The Perseverative Thinking Questionnaire (PTQ):
+Validation of a content-independent measure of
+repetitive negative thinking.
+Journal of Behavior Therapy and Experimental Psychiatry,
+42(2), 225–232.
+https://doi.org/10.1016/j.jbtep.2010.12.003
